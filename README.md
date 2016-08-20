@@ -12,8 +12,10 @@ What is Battleground??
 Some notes!! :)
 ----------------
 - Since it's my first project, the code isn't a clean code. (I haven't edited it because I wanted to leave it as it was)
-  * Naming conventions are not good
+  * Naming conventions are not that good
+  * The code style is not that good
   * Functions are too long
-  * The style is not that good
+  * There are too many repetitive lines
+  * There are too many global variables
 - There was a background music in the game but I decided to delete it. (Because it occupies too much space)
 - Feel free to contact me!!
