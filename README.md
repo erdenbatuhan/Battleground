@@ -1,5 +1,5 @@
 # Battleground
-A name called Battleground.
+A game called Battleground.
 
 -----------------------
 What is Battleground??
