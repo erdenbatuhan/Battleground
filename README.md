@@ -11,7 +11,7 @@ What is Battleground??
 ----------------
 Some notes!! :)
 ----------------
-- Since it's my first project, the code isn't a clean code. (I haven't edited it because I wanted to leave it as it was)
+- Since it's my first project, the code isn't a clean code. (We haven't edited it because we wanted to leave it as it was)
   * Naming conventions are not that good
   * The code style is not that good
   * Functions are too long
