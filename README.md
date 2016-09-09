@@ -17,5 +17,5 @@ Some notes!! :)
   * Functions are too long
   * There are too many repetitive lines
   * There are too many global variables
-- There was a background music in the game but I decided to delete it. (Because it occupies too much space)
+- There was a background music in the game but we decided to delete it. (Because it occupies too much space)
 - Feel free to contact me!!
