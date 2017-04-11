@@ -6,7 +6,7 @@ What is Battleground??
 -----------------------
 - It is a Java-Based game.
 - It is my first project.
-- It is developed as a project for CS102(Object-Oriented Programming) course by me(Batuhan Erden) and my classmate(Emir Arditi).
+- It is developed as a project for CS102 (Object-Oriented Programming) course by me (Batuhan Erden) and my classmate (Emir Arditi).
 
 ----------------
 Some notes!! :)
